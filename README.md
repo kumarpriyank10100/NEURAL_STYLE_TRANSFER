@@ -32,8 +32,8 @@ The AI tries to minimize a **Total Loss Function**:
 
 Where:
 
-* ** (Alpha):** How much we care about the original photo.
-* ** (Beta):** How much we care about the artistic style.
+*  (Alpha): How much we care about the original photo.
+*  (Beta): How much we care about the artistic style.
 
 ---
 
